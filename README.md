@@ -17,5 +17,4 @@ Ao longo da graduação, desenvolvi projetos acadêmicos envolvendo diferentes e
 ## Contato
 
 * [LinkedIn](https://www.linkedin.com/in/nicole-de-barros-silva-562250360)
-* [Currículo Lattes](lattes.cnpq.br/1941655477009848)
 * E-mail: [carreira.nicolebarros@gmail.com](mailto:carreira.nicolebarros@gmail.com)
