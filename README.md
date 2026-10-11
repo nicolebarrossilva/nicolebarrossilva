@@ -13,7 +13,10 @@ Sou estudante de Estatística na **Universidade Estadual de Campinas (UNICAMP)**
 ## 📊 Projetos Acadêmicos
 
 Neste perfil, compartilho alguns dos projetos acadêmicos que desenvolvi durante a graduação.
+- **Qualidade de Vinhos — Regressão:** análise exploratória e modelagem de regressão para investigar a relação entre características físico-químicas e a qualidade dos vinhos.
 
+- **Rendimento de um Processo Químico:** aplicação de métodos estatísticos para analisar a influência da temperatura e da pressão sobre o rendimento de um processo químico.
+  
 ## 📫 Contato
  
 - [LinkedIn](https://www.linkedin.com/in/nicole-de-barros-silva-562250360)
