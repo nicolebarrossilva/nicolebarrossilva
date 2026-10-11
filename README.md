@@ -4,7 +4,7 @@ Sou estudante de Estatística na Universidade Estadual de Campinas (UNICAMP), co
 
 ## Conhecimentos e Ferramentas
 
-* **Linguagens:** R, Python, SQL(básico)
+* **Linguagens:** R, Python, SQL(em desenvolvimento)
 * **Análise de dados:** análise exploratória, manipulação, limpeza e visualização de dados
 * **Métodos estatísticos:** modelagem estatística e regressão
 * **Documentação e relatórios:** R Markdown e Quarto
