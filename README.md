@@ -1,20 +1,20 @@
-# Nicole de Barros Silva
+# Olá! Eu sou a Nicole de Barros Silva 👋
 
-Sou estudante de Estatística na Universidade Estadual de Campinas (UNICAMP), com interesse no desenvolvimento e aplicação de conhecimentos estatísticos em diferentes contextos. Ao longo da graduação, venho desenvolvendo conhecimentos em R, Python e SQL, além de análise exploratória, manipulação e visualização de dados e modelagem estatística.
+Sou estudante de Estatística na **Universidade Estadual de Campinas (UNICAMP)**, com interesse na aplicação de métodos estatísticos para analisar dados, investigar relações entre variáveis e compreender diferentes fenômenos.
 
-## Conhecimentos e Ferramentas
+## 🛠️ Conhecimentos e Ferramentas
 
-* **Linguagens:** R, Python, SQL(em desenvolvimento)
-* **Análise de dados:** análise exploratória, manipulação, limpeza e visualização de dados
-* **Métodos estatísticos:** modelagem estatística e regressão
-* **Documentação e relatórios:** R Markdown e Quarto
-* **Ambiente de desenvolvimento:** RStudio
+- **Linguagens:** R, Python e SQL (em desenvolvimento)
+- **Análise de dados:** análise exploratória, limpeza, manipulação e visualização de dados
+- **Métodos estatísticos:** inferência estatística, regressão e modelagem estatística
+- **Relatórios e documentação:** R Markdown e Quarto
+- **Ambientes de desenvolvimento:** RStudio e Google Colab
 
-## Projetos Acadêmicos
+## 📊 Projetos Acadêmicos
 
-Ao longo da graduação, desenvolvi projetos acadêmicos envolvendo diferentes etapas de uma análise estatística, desde a organização e exploração dos dados até a construção, avaliação e interpretação de modelos.
+Neste perfil, compartilho alguns dos projetos acadêmicos que desenvolvi durante a graduação.
 
-## Contato
-
-* [LinkedIn](https://www.linkedin.com/in/nicole-de-barros-silva-562250360)
-* E-mail: [carreira.nicolebarros@gmail.com](mailto:carreira.nicolebarros@gmail.com)
+## 📫 Contato
+ 
+- [LinkedIn](https://www.linkedin.com/in/nicole-de-barros-silva-562250360)
+- [E-mail](mailto:carreira.nicolebarros@gmail.com)
