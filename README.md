@@ -16,6 +16,10 @@ Neste perfil, compartilho alguns dos projetos acadêmicos que desenvolvi durante
 - **Qualidade de Vinhos — Regressão:** análise exploratória e modelagem de regressão para investigar a relação entre características físico-químicas e a qualidade dos vinhos.
 
 - **Rendimento de um Processo Químico:** aplicação de métodos estatísticos para analisar a influência da temperatura e da pressão sobre o rendimento de um processo químico.
+
+- **Predição do Campeonato Brasileiro — Simulação de Monte Carlo:** simulação de temporada do Campeonato Brasileiro por meio de métodos de Monte Carlo, estimação de parâmetros, bootstrap e análise de probabilidades de classificação e rebaixamento.
+
+- **Inferência Bayesiana — Proporção de Hipertensão:** estimação da proporção de hipertensão em pacientes diabéticos utilizando distribuições Beta e Binomial, simulação MCMC e algoritmo Metropolis-Hastings.
   
 ## 📫 Contato
  
