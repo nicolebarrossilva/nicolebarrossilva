@@ -1,6 +1,6 @@
 # Olá! Eu sou a Nicole de Barros Silva 👋
 
-Sou estudante de Estatística na **Universidade Estadual de Campinas (UNICAMP)**, com interesse na aplicação de métodos estatísticos para analisar dados, investigar relações entre variáveis e compreender diferentes fenômenos.
+Sou estudante de Estatística na **Universidade Estadual de Campinas (UNICAMP)**, com interesse na aplicação de métodos estatísticos e modelagem para extrair insights de dados e resolver problemas reais.
 
 ## 🛠️ Conhecimentos e Ferramentas
 
