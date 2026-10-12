@@ -20,6 +20,8 @@ Neste perfil, compartilho alguns dos projetos acadêmicos que desenvolvi durante
 - **Predição do Campeonato Brasileiro — Simulação de Monte Carlo:** simulação de temporada do Campeonato Brasileiro por meio de métodos de Monte Carlo, estimação de parâmetros, bootstrap e análise de probabilidades de classificação e rebaixamento.
 
 - **Inferência Bayesiana — Proporção de Hipertensão:** estimação da proporção de hipertensão em pacientes diabéticos utilizando distribuições Beta e Binomial, simulação MCMC e algoritmo Metropolis-Hastings.
+
+- **[Manipulação de Banco de Dados](https://github.com/NicoleBarross/ManipulacaoBancoDados):** resolução de desafios acadêmicos envolvendo manipulação e análise de dados com R, Python e SQL.
   
 ## 📫 Contato
  
