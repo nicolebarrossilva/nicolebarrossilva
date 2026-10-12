@@ -21,7 +21,7 @@ Neste perfil, compartilho alguns dos projetos acadêmicos que desenvolvi durante
 
 - **Inferência Bayesiana — Proporção de Hipertensão:** estimação da proporção de hipertensão em pacientes diabéticos utilizando distribuições Beta e Binomial, simulação MCMC e algoritmo Metropolis-Hastings.
 
-- **[Manipulação de Banco de Dados](https://github.com/NicoleBarross/ManipulacaoBancoDados):** resolução de desafios acadêmicos envolvendo manipulação e análise de dados com R, Python e SQL.
+- **[Manipulação de Banco de Dados](https://github.com/NicoleBarross/ManipulacaoBancoDados):** resolução de atividades acadêmicas envolvendo manipulação e análise de dados com R, Python e SQL.
   
 ## 📫 Contato
  
